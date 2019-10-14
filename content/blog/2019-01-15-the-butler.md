@@ -6,9 +6,7 @@ tags:
   - ''
 draft: false
 ---
-<div class="embed-container"><iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=k6mG&width=670&height=475" scrolling="no" frameborder="0" style='overflow:hidden; allowTransparency="true"'></iframe>  <script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script></div>
-
-
+<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=lVn9&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
 
 At first glance, it might seem that the federal reserve data is incorrect, but a quick look at the y-axis (in millions of dollars) clears this up. The US national debt is not in fact 21 million but currently stands at 21 trillion!
 

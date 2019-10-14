@@ -1,7 +1,7 @@
 ---
 title: US National Debt
 date: 2019-02-07T12:37:00.000Z
-image: /images/butler.jpg
+image: ''
 tags:
   - government debt
 draft: false

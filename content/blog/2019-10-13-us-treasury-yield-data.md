@@ -4,7 +4,7 @@ date: 2019-10-14T03:09:17.029Z
 tags:
   - yield curve
   - federal reserve
-draft: true
+draft: false
 ---
 These rates are commonly referred to as "Real Constant Maturity Treasury" rates, or R-CMTs. Real yields on Treasury Inflation Protected Securities (TIPS) at "constant maturity" are interpolated by the U.S. Treasury from Treasury's daily real yield curve. These real market yields are calculated from composites of secondary market quotations obtained by the Federal Reserve Bank of New York. The real yield values are read from the real yield curve at fixed maturities, currently 5, 7, 10, 20, and 30 years. This method provides a real yield for a 10 year maturity, for example, even if no outstanding security has exactly 10 years remaining to maturity. Dataset updated daily every weekday. 
 

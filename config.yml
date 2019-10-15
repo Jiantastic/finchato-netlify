@@ -4,9 +4,7 @@ description: 'One stop source of all economic data, verified.'
 baseurl: /
 canonicalurl: true
 googleAnalytics: UA-53965395-5
-theme: "hyde"
-params:
-  themeColor: "theme-base-08"
+theme: hyde
 date:
   format: j F Y
   timezone: Europe/Paris

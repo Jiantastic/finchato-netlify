@@ -2,7 +2,10 @@
 
 > A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
 
+Good guide : https://dmitryrogozhny.com/blog/how-to-add-custom-script-to-single-post-in-jekyll
+
 ![Cecil preview](static/images/cecil-preview.png)
+
 
 ## There is a demo?
 
